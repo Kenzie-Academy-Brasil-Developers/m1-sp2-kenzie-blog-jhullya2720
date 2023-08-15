@@ -1,3 +1,5 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@100;400;700&display=swap');
+
 img{
     width: 200px;
 }
@@ -11,7 +13,7 @@ header{
 }
 body{
 background-color: rgb(223, 221, 221);
-font-family: 'Roboto', sans-serif;
+    font-family: 'Roboto', sans-serif;
 }
 
 .container{
@@ -23,7 +25,7 @@ font-family: 'Roboto', sans-serif;
     border-radius: 7px;
 }
 
-.container-form{
+.footer-box{
     text-align: center;
     background-color:#3590ff;
     margin: 0 auto;
@@ -53,9 +55,9 @@ button{
     padding: 8px;
     font-size: 15px;
 }
-.acessar{
+.acess{
     margin-left: 985px;
 }
-.p-form{
+.p-footer{
     font-size: 18px;
 }
